@@ -1,0 +1,34 @@
+{
+  "name": "bungie-api-oop",
+  "version": "0.1.0",
+  "description": "An OOP API for the Bungie.net API",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrenny/bungie-api-oop.git"
+  },
+  "keywords": [
+    "bungie",
+    "bungie.net",
+    "api",
+    "halo",
+    "destiny",
+    "destiny 2",
+    "forsaken",
+    "shadowkeep",
+    "beyond light",
+    "witch queen"
+  ],
+  "author": "TheBrenny <iam@justbrenny.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBrenny/bungie-api-oop/issues"
+  },
+  "homepage": "https://github.com/TheBrenny/bungie-api-oop#readme",
+  "dependencies": {
+    "bungie-api-ts": "^4.15.0"
+  }
+}
